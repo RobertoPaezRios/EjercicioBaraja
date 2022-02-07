@@ -1,0 +1,7 @@
+C:\Users\Roberto\source\repos\ejercicioBaraja\bin\Debug\ejercicioBaraja.exe.config
+C:\Users\Roberto\source\repos\ejercicioBaraja\bin\Debug\ejercicioBaraja.exe
+C:\Users\Roberto\source\repos\ejercicioBaraja\bin\Debug\ejercicioBaraja.pdb
+C:\Users\Roberto\source\repos\ejercicioBaraja\obj\Debug\ejercicioBaraja.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\ejercicioBaraja\obj\Debug\ejercicioBaraja.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\ejercicioBaraja\obj\Debug\ejercicioBaraja.exe
+C:\Users\Roberto\source\repos\ejercicioBaraja\obj\Debug\ejercicioBaraja.pdb
